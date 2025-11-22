@@ -1,0 +1,7 @@
+python-telegram-bot
+google-cloud-firestore
+google-auth
+google-api-core
+grpcio
+protobuf
+requests
